@@ -1,0 +1,7 @@
+﻿  bulls'n'cows.cpp
+C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\bulls'n'cows\bulls'n'cows.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\bulls'n'cows\bulls'n'cows.cpp(22,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\bulls'n'cows\bulls'n'cows.cpp(22,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\bulls'n'cows\bulls'n'cows.cpp(22,15): warning C4101: c: неиспользованная локальная переменная
+C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\bulls'n'cows\bulls'n'cows.cpp(22,18): warning C4101: d: неиспользованная локальная переменная
+  bulls'n'cows.vcxproj -> C:\Users\User\Documents\Программы\Быки и коровы\bulls'n'cows\Debug\bulls'n'cows.exe
